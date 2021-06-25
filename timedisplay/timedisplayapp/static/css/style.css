@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    height: 200px;
+    width: 500px;
+    background-color: gold;
+}
+button {
+    font-size: 50px;
+}
+body {
+    border: solid 1px black;
+    height: 300px;
+    width: 500px;
+}
